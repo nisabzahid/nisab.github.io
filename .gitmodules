@@ -1,0 +1,3 @@
+[submodule "nzsite/themes/hugo-coder"]
+	path = nzsite/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
